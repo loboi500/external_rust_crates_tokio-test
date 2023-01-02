@@ -1,13 +1,3 @@
-# tokio-test
-
-Tokio and Futures based testing utilities
-
-## License
-
-This project is licensed under the [MIT license](LICENSE).
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in Tokio by you, shall be licensed as MIT, without any additional
-terms or conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c014650b094f38c2f521c4ad4802f8680fc06a82864c329ca0c590eb0cc2ddd2
+size 328
